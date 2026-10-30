@@ -8,10 +8,10 @@
 > **Physics Verification Suite:** [github.com/aevov/neuronance](https://github.com/aevov/neuronance)  
 > **Prior Art DOIs:** [Zenodo 10.5281/zenodo.18407686](https://doi.org/10.5281/zenodo.18407686) | [Zenodo 10.5281/zenodo.18913463](https://doi.org/10.5281/zenodo.18913463)
 
-[![License: CC BY-NC-ND 4.0]([suspicious link removed])]([suspicious link removed])
-[![Wave Level: Wave 4+ Certification]([suspicious link removed])](https://github.com/aevov/neuronance)
-[![Verification Engine: Neuronance v4.0 WASM]([suspicious link removed])](https://github.com/aevov/neuronance)
-[![Substrate: Bare-Metal Plasma Gating]([suspicious link removed])](https://github.com/aevov/Afolabi-LBM-170B-Lattice)
+[![License: CC BY-NC-ND 4.0]()]([suspicious link removed])
+[![Wave Level: Wave 4+ Certification]()](https://github.com/aevov/neuronance)
+[![Verification Engine: Neuronance v4.0 WASM]()](https://github.com/aevov/neuronance)
+[![Substrate: Bare-Metal Plasma Gating]()](https://github.com/aevov/Afolabi-LBM-170B-Lattice)
 
 ---
 
